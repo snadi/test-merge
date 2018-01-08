@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main(){
-    printf("x");
-    return 0;:
+    int x = 0;
+    printf("x:%d", x);
+    return 0;
 }
