@@ -5,7 +5,7 @@ int main(){
     int y = 0;
     printf("x:%d", x);
     
-    int y = 9 ; //problematic change
+    int z = 9 ; //problematic change
     
     return 0;
 }
